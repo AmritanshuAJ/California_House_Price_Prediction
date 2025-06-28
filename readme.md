@@ -13,7 +13,6 @@ This project focuses on building a regression model to predict median house valu
 - [Usage](#usage)
 - [Built With](#built-with)
 - [Project Structure](#project-structure)
-- [License](#license)
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
 
@@ -120,13 +119,13 @@ python -m ensurepip --upgrade
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/AmritanshuAJ/California_House_Price_prediction.git
+git clone https://github.com/AmritanshuAJ/California_House_Price_Prediction.git
 ```
 
 2. Navigate into the project directory:
 
 ```bash
-cd California_House_Price_prediction
+cd California_House_Price_Prediction
 ```
 
 3. Install the required Python packages (for local execution):
