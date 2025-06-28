@@ -1,0 +1,6 @@
+### Dataset Source & References
+
+The dataset was obtained from the StatLib repository and can be loaded using the `sklearn.datasets.fetch_california_housing` function.
+
+- **Original Source:** https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html
+- **References:** Pace, R. Kelley and Ronald Barry, Sparse Spatial Autoregressions, Statistics and Probability Letters, 33 (1997) 291-297
